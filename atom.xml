@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>ShiMr</title>
+  
+  <subtitle>ShiMr-C</subtitle>
+  <link href="https://gfmrshi.github.io/atom.xml" rel="self"/>
+  
+  <link href="https://gfmrshi.github.io/"/>
+  <updated>2021-05-17T10:46:57.164Z</updated>
+  <id>https://gfmrshi.github.io/</id>
+  
+  <author>
+    <name>炽热可得</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>欢迎！来到无望之地~</title>
+    <link href="https://gfmrshi.github.io/2021/04/29/%E4%BD%A0%E5%A4%A7%E7%88%B7/"/>
+    <id>https://gfmrshi.github.io/2021/04/29/%E4%BD%A0%E5%A4%A7%E7%88%B7/</id>
+    <published>2021-04-29T09:24:45.000Z</published>
+    <updated>2021-05-17T10:46:57.164Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1 id=&quot;￣3-ε￣&quot;&gt;&lt;a href=&quot;#￣3-ε￣&quot; class=&quot;headerlink&quot; title=&quot;(* ￣3)(ε￣ *)&quot;&gt;&lt;/a&gt;(* ￣3)(ε￣ *)&lt;/h1&gt;&lt;h2 id=&quot;你的世界！&quot;&gt;&lt;a href=&quot;#你的世界！&quot;</summary>
+        
+      
+    
+    
+    
+    
+    <category term="peng" scheme="https://gfmrshi.github.io/tags/peng/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="https://gfmrshi.github.io/2021/04/28/hello-world/"/>
+    <id>https://gfmrshi.github.io/2021/04/28/hello-world/</id>
+    <published>2021-04-28T09:43:50.836Z</published>
+    <updated>2021-04-28T09:43:50.836Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.io/docs/&quot;&gt;documentation&lt;/a&gt;</summary>
+        
+      
+    
+    
+    
+    
+  </entry>
+  
+</feed>
